@@ -1,4 +1,9 @@
-# Foliage3D
+# Foliage3D Legacy
+
+> [!WARNING]
+> This is a legacy version of the Foliage3D addon.
+> It has since been rewritten in the brand new `GD++` language, targeting GDExtension.
+> The new project is <https://github.com/caphindsight/Foliage3D>.
 
 Procedural foliage for Godot, quickly, straight into yor project.
 Foliage is fully interactive and supports anything that a normal Godot scene supports, including collisions.
